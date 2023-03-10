@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi, my name is Joe Namihas
+<br />
+### Senior IT Engineer / Frontend Web Developer
+
+
 
 <!--
 **JosephNamihas/JosephNamihas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
